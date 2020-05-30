@@ -1,0 +1,3 @@
+If the following words can be seen at the project named guns_copy of our team, it shows that the test is successfull:
+Java is the best language all over the world. 
+The first test sometimes tells us how to show "HelloWorld"on the scene.
